@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 23px 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2B3844;
+}
+
+.container h1 {
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.container h2 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container h2 i {
+    width: 20px;
+    height: 20px;
+}
+
+.all-btn {
+    width: 136px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.29);
+    color: rgba(255, 255, 255, 1);
+    margin: 45px;
+}
+
+.all-btn:hover {
+    cursor: pointer;
+    background-color: #2b384451;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    background-color: #202C36;
+}
+
+.albania__images {
+    width: 520px;
+    height: 329px;
+    flex-shrink: 0;
+    margin: 55px 45px;
+}
+
+.albania__container {
+    display: flex;
+}
+
+.albania__text {
+    color: #FFF;
+    font-size: 20px;
+    padding: 50px 125px;
+}
+
+.border h3 {
+    width: 190px;
+    color: #FFF;
+}
+
+.p__1 {
+    width: 250px;
+    color: #FFF;
+    padding: 10px 0;
+}
+
+.text__p {
+    padding: 30px 0px;
+}
+
+.p__2 {
+    padding: 0 0 0 40px;
+}
+
+.france {
+    padding: 0 15px 0;
+    color: #FFF;
+}
+
+.germany {
+    padding: 0 15px 0;
+}
+
+.Netherlands {
+    padding: 0 15px 0;
+}
+
+.border {
+    display: flex;
+}
+
+.border__p {
+    display: flex;
+
+}
+
+.p1 {
+    padding: 10px 0 0 0;
+}
+
+.p2 {
+    padding: 10px 0 0 0;
+}
+
+.p3 {
+    padding: 10px 0 0 0;
+}
+
+.p4 {
+    padding: 10px 0 0 0;
+}
+
+.p5 {
+    padding: 10px 0 0 0;
+}

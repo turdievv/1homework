@@ -1,0 +1,362 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 23px 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2B3844;
+}
+
+.container h1 {
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.container h2 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container h2 i {
+    width: 20px;
+    height: 20px;
+}
+
+.group-3 {
+    color: darkblue;
+}
+
+main {
+    width: 100%;
+    height: 1050px;
+    background-color: #202C36;
+    padding: 0 0 0 130px;
+}
+
+.search {
+    margin: 18px 65px;
+    width: 280px;
+    height: 45px;
+    text-align: start;
+    padding: 0 15px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+    color: #fff;
+}
+
+.search i {
+    padding: 0 15px 0 0;
+}
+
+.germany__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.germany {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px 20px 0 40px;
+    color: #fff;
+}
+
+.germany:hover {
+    background-color: #2b384443;
+}
+
+.germanyy h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.germanyy p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.zxc {
+    display: flex;
+    margin: 0 35px 0 13px;
+}
+
+.cxz {
+    display: flex;
+    margin: 0 0 0 -690;
+}
+
+.amerika__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.amerika {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.amerikaa h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.amerikaa p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.brazil__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.brazil {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.brazill h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.brazill p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.iceland__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.iceland {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.icelandd h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.icelandd p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.afghanistan__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.afghanistan {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.afghanistann h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.afghanistann p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+.aland__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.aland {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.alandd h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.alandd p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+.albania__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.albania {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.albaniaa h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.albaniaa p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+.algaria__img {
+    width: 267px;
+    height: 160px;
+    flex-shrink: 0;
+}
+
+.algaria {
+    width: 267px;
+    height: 336px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #2B3844;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+    margin: 40px;
+    color: #fff;
+}
+
+.algariaa h2 {
+    padding: 15px 15px 15px 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+
+.algariaa p {
+    padding: 5px 0 0 20px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
